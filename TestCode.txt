@@ -1,0 +1,49 @@
+Google drive hosting: drv.tw
+Google drive static link: https://drive.recmail.net/
+
+<!-- Some helpful links for forms: -->
+https://html.form.guide/html-form/form-action-using-javascript-function/
+
+Free pictures:
+https://www.pexels.com/search/free/
+
+
+
+<script>
+document.getElementById("demo").innerHTML = 5 + 6;
+</script>
+
+//Javascript:
+
+var customerName = prompt("Enter your name", "<name goes here>");
+if (customerName != null) {
+
+document.getElementById("welcome").innerHTML = "Hello " + customerName + "! How are you today?";
+}  
+
+
+//Javascript:
+function setAction(form) {
+    form.action = "register.html";
+    alert(form.action);
+    return false;
+    }
+    function loginUser() {
+    document.user_form.action = "login.html";
+    alert(document.user_form.action);
+    return false;
+    }
+    function registerUser() {
+    document.user_form.action = "register.html";
+    alert(document.user_form.action);
+    return false;
+    }
+
+//CSS:
+form label {
+    display: inline-block;
+    width: 100px;
+    }
+    form div {
+    margin-bottom: 10px;
+    }
