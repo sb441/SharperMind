@@ -7,7 +7,8 @@ https://html.form.guide/html-form/form-action-using-javascript-function/
 Free pictures:
 https://www.pexels.com/search/free/
 
-
+Form HLMT, JS and CSS:
+https://www.formget.com/javascript-submit-form/
 
 <script>
 document.getElementById("demo").innerHTML = 5 + 6;
