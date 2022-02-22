@@ -1,6 +1,6 @@
 
 /* Below line is used for online Google font */
-@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(http://fonts.googleapis.com/css?family=Raleway); 
 h2{
 background-color: #FEFFED;
 padding: 30px 35px;
@@ -15,7 +15,7 @@ border-top: 1px solid #ccc;
 margin-bottom: 40px;
 }
 div.container{
-width: 900px;
+width: 800px;
 height: 610px;
 margin:35px auto;
 font-family: 'Raleway', sans-serif;
