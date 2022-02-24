@@ -1,5 +1,13 @@
 
 // Submit form with id function.
+
+function myFunction() {
+  document.getElementById("i52").style.fontSize = "25px"; 
+  document.getElementById("i52").style.color = "blue";
+  document.getElementById("i52").style.backgroundColor = "orange";        
+}
+
+
 function submit_by_id() {
     var name = document.getElementById("name").value;
     var email = document.getElementById("email").value;
