@@ -1,6 +1,13 @@
 Google drive hosting: drv.tw
 Google drive static link: https://drive.recmail.net/
 
+//Link css and js files
+<!-- Include CSS File Here -->
+<link rel="stylesheet" href="https://drive.google.com/uc?export=download&id=1TiOTWkxtAfJJ8RPDmh3zrqKmteWdGOdy"/>
+<!-- Include JS File Here -->
+<script src="https://drive.google.com/uc?id=1-GHEqOwC8td5KXTKOzKksIeLhAmnQtBd"></script>
+
+
 <!-- Some helpful links for forms: -->
 https://html.form.guide/html-form/form-action-using-javascript-function/
 
